@@ -1,6 +1,6 @@
 # Suicide Rate 2023 Analysis
 
-## [Tableau Dashboard](https://public.tableau.com/views/Book2_17550526207260/SuicideRates2023?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## [Tableau Dashboard](https://public.tableau.com/views/SuicideRates20231/SuicideRates2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## [**Dataset**](https://github.com/Neel-517/Suicide_Rate_2023_Analysis/blob/94cb9b6aa4f606ce0e0361b51742ea12df98c2c7/world_suicide_rate_2023.csv)
 
 ## **Project Overview**
@@ -17,7 +17,7 @@ The dashboard contains three filters: **Country**, **Continent** & **Select Data
 The objective is to raise awareness and highlight disparities and trends.
 
 ## **Screenshot**
-![image alt](https://github.com/Neel-517/Suicide_Rate_2023_Analysis/blob/87ed935281dcc944f246516eb8007c9e7348e446/Screenshot/Dashboard.png)
+![image alt](https://github.com/Neel-517/Suicide-Rates-2023/blob/08d23e3cd6eb283d7066d7cf58e2ce53197bf83d/Screenshot/Dashboard.png)
 
 ## **Insights**
 ### **Top 10 countries with the highest combined suicide rates (per 100k)** 
