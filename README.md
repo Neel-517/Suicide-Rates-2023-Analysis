@@ -1,7 +1,7 @@
 # Suicide Rate 2023 Analysis
 
 ## [Tableau Dashboard](https://public.tableau.com/views/SuicideRates20231/SuicideRates2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-## [**Dataset**](https://github.com/Neel-517/Suicide_Rate_2023_Analysis/blob/94cb9b6aa4f606ce0e0361b51742ea12df98c2c7/world_suicide_rate_2023.csv)
+## [**Dataset**](https://github.com/Neel-517/Suicide-Rates-2023/blob/552985d76d524408d99cec7a11e40f843fe22684/world_suicide_rate_2023.csv)
 
 ## **Project Overview**
 This analysis explores suicide rates from each country per 100k population, age-standardized. The dataset is provided by the World Health Organization (WHO). This dashboard includes:
