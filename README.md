@@ -3,6 +3,15 @@
 ## [Tableau Dashboard](https://public.tableau.com/views/SuicideRates20231/SuicideRates2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ## [**Dataset**](https://github.com/Neel-517/Suicide-Rates-2023/blob/552985d76d524408d99cec7a11e40f843fe22684/world_suicide_rate_2023.csv)
 
+## **Tools Used**
+
+1. **Excel**
+   - Data Cleaning & Preparation, Sorting, Filtering, Rearranging, VLOOKUP
+2. **SQL**
+   - Aggregate Functions, Sorting, LIMIT, Filtering, SELECT Statements, ORDER BY, Column Aliasing, CASE Statements
+3. **Tableau**
+   - Filters, Parameters, Calculated Fields, Performance & Publishing, KPIs, Sets
+
 ## **Project Overview**
 This analysis explores suicide rates from each country per 100k population, age-standardized. The dataset is provided by the World Health Organization (WHO). This dashboard includes:
 - A map displaying each country.
@@ -19,7 +28,7 @@ The objective is to raise awareness and highlight disparities and trends.
 ## **Screenshot**
 ![image alt](https://github.com/Neel-517/Suicide-Rates-2023/blob/08d23e3cd6eb283d7066d7cf58e2ce53197bf83d/Screenshot/Dashboard.png)
 
-## **Insights**
+## **Insights/Findings**
 ### **Top 10 countries with the highest combined suicide rates (per 100k)** 
 Rank | Country| Rate 
 :---:|:---:|:---:
