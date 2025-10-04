@@ -26,7 +26,7 @@ The dashboard contains three filters: **Country**, **Continent** & **Select Data
 The objective is to raise awareness and highlight disparities and trends.
 
 ## **Screenshot**
-![image alt](https://github.com/Neel-517/Suicide-Rates-2023/blob/08d23e3cd6eb283d7066d7cf58e2ce53197bf83d/Screenshot/Dashboard.png)
+![image alt](https://github.com/Neel-517/Suicide-Rates-2023-Analysis/blob/b760282dcb612744e0ad0b4772e31d4ac91c26ba/Screenshot/Dashboard.png)
 
 ## **Insights/Findings**
 ### **Top 10 countries with the highest combined suicide rates (per 100k)** 
@@ -70,8 +70,6 @@ Rank | Country| Rate
 8 | Central African Republic | 9.3
 9 | Vanuatu | 9
 10 | Mozambique | 8.9
-
-
 
 ### **Top 10 countries with the highest male-to-female suicide rate ratio (per 100k)** 
 Rank | Country| Rate 
